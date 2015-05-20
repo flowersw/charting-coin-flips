@@ -1,0 +1,1 @@
+This is ok work, not great.  Some of it correct, but I know that towards the end, there are some errors in my work. Good practice on plotting and basic statistics though. Let me know if yo have any comments
